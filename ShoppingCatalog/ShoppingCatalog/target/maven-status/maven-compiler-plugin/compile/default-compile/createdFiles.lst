@@ -1,0 +1,16 @@
+com\ShoppingCatalogue\Exceptions\JobControllerAdvice.class
+com\ShoppingCatalogue\Responsetypes\CatalougeItems.class
+com\ShoppingCatalogue\Service\ShoppingCartService.class
+com\ShoppingCatalogue\Repository\CartRepository.class
+com\ShoppingCatalogue\Controller\ShoppingController.class
+com\ShoppingCatalogue\Repository\CatalogRepository.class
+com\ShoppingCatalogue\ModelClass\Catalogue.class
+com\ShoppingCatalogue\Exceptions\ResponseException.class
+com\ShoppingCatalogue\Serviceimpl\ShoppingCartServiceImpl.class
+com\ShoppingCatalogue\ModelClass\ValidationMessage.class
+com\ShoppingCatalogue\Exceptions\UserMessage.class
+com\ShoppingCatalogue\ModelClass\ShoppingCart.class
+com\ShoppingCatalogue\Serviceimpl\ShoppingServiceImpl.class
+com\ShoppingCatalogue\Responsetypes\CartResponse.class
+com\ShoppingCatalogue\Service\ShoppingCatalogueService.class
+com\ShoppingCatalogue\Controller\CartController.class
